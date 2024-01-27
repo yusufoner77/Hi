@@ -41,15 +41,3 @@ int strcmp_case_insensitive(const char *s1, const char *s2) {
 return comparison;
 
 }
-
-// int main() {
-    
-//     char s1[] = "hello";
-//     // char s2[] = "HelLo my n";
-//     char s2[] = "HeLLo";
-    
-//     int result = strcmp_case_insensitive(s1, s2);
-
-//     cout << result << endl;
-
-// }
